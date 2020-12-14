@@ -1,6 +1,6 @@
 # Examen1HTML
 ## Objetivo a cumplir
-![imagen](Imágenes/Captura1.PNG)
+[link](file:///Y:/Downloads/Examen_HTML_GN%20(2).html)
 ### Guia
 Primero que hemos de hacer es tener el texto que hemos de trabajar [Link](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt)
 Este es el css [link](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/marking-up-a-letter-start/css.txt)
